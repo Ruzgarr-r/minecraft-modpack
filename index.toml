@@ -366,8 +366,8 @@ hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
 metafile = true
 
 [[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "040b6ebf5597bc3fda75a00e0fc17644fb7853a08717249ae3da183a93e5075c"
+file = "mods/vista_fixed_tv.pw.toml"
+hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
 metafile = true
 
 [[files]]
